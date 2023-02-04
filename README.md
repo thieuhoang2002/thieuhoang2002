@@ -2,7 +2,7 @@
 My name is Thieu Viet Hoang. I am an student at Saigon University, majoring in Software Engineering.<br>
 ## 📫 How to reach me: 
 
-[![Telegram](https://icons.iconarchive.com/icons/froyoshark/enkel/48/Telegram-icon.png) Telegram](https://t.me/thhoang0903) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thieuhoang2002/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/thieuhoangofficial)
+[![Telegram](https://icons.iconarchive.com/icons/froyoshark/enkel/48/Telegram-icon.png) Telegram](https://t.me/thhoang0903) [![GitHub](https://icons.iconarchive.com/icons/bokehlicia/captiva/48/web-github-icon.png) GitHub](https://github.com/thieuhoang2002/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/thieuhoangofficial)
 
 
 
