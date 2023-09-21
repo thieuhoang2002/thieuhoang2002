@@ -11,7 +11,11 @@ My name is Thieu Viet Hoang. I am an student at Saigon University, majoring in S
 <a href="https://github.com/thieuhoang2002/CSHARP-FIVECHIP-MART-PROJECT/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=CSHARP-FIVECHIP-MART-PROJECT&theme=radical" />
-</a>    
+</a> 
+<a href="https://github.com/thieuhoang2002/WEB2-PROJECT-VUTRUDONGHO/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=WEB2-PROJECT-VUTRUDONGHO&theme=merko" />
+</a>
 <a href="https://github.com/thieuhoang2002/WEB1-PROJECT---WATCH-SHOP/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=WEB1-PROJECT---WATCH-SHOP&theme=merko" />
