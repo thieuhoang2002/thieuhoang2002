@@ -20,6 +20,10 @@ My name is Thieu Viet Hoang. I am an student at Saigon University, majoring in S
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Download_Video_TikTok_CMD&theme=radical" />
 </a>
+<a href="https://github.com/thieuhoang2002/learning_HCM_ideology">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=learning_HCM_ideology&theme=gruvbox" />
+</a>    
 <a href="https://github.com/thieuhoang2002/WEB1-PROJECT---WATCH-SHOP/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=WEB1-PROJECT---WATCH-SHOP&theme=merko" />
