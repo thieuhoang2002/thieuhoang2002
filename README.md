@@ -2,10 +2,6 @@
 Software Engineer - Saigon University.
 ## 📫 How to reach me: Email: thieuhoangent@gmail.com
 
-
-
-![ThieuHoang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thieuhoang2002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
 <a href="https://github.com/thieuhoang2002/CSHARP-FIVECHIP-MART-PROJECT/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=CSHARP-FIVECHIP-MART-PROJECT&theme=radical" />
