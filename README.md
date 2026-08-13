@@ -1,8 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Thieu Viet Hoang. I am an student at Saigon University, majoring in Software Engineering.<br>
-## 📫 How to reach me: 
-
-[![Telegram](https://github.com/thieuhoang2002/thieuhoang2002/blob/main/Icon%20socials/icons8-telegram-app-48%20(1).png) Telegram](https://t.me/thhoang0903) [![Facebook](https://github.com/thieuhoang2002/thieuhoang2002/blob/main/Icon%20socials/icons8-facebook-48%20(1).png) Facebook](https://www.facebook.com/thieuhoang0903/) [![Youtube](https://github.com/thieuhoang2002/thieuhoang2002/blob/main/Icon%20socials/icons8-youtube-logo-24%20(1).png) Youtube](https://www.youtube.com/thieuhoangofficial)
+Software Engineer - Saigon University.
+## 📫 How to reach me: Email: thieuhoangent@gmail.com
 
 
 
