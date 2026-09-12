@@ -1,8 +1,14 @@
-### WELCOME TO MY PAGE 👋👋👋
-Software Engineer - Saigon University.
-## 📫 How to reach me: Email: thieuhoangent@gmail.com
+### WELCOME TO MY PAGE / CHÀO MỪNG ĐẾN VỚI PROFILE CỦA TÔI 👋👋👋
+**Software Engineer** - Saigon University (Đại học Sài Gòn).
 
-> **Note for Recruiters:** Below are some of my highlighted public projects. Please note that several core projects and automation tools are currently kept private due to source code confidentiality and security reasons.
+## 📫 How to reach me / Liên hệ: thieuhoangent@gmail.com
+
+> **Note for Recruiters (Lưu ý cho Nhà tuyển dụng):** 
+> Below are some of my highlighted public projects. Please note that several core projects and automation tools are currently kept private due to source code confidentiality and security reasons.
+>
+> *Dưới đây là một số dự án công khai tiêu biểu của tôi. Xin lưu ý rằng một số dự án cốt lõi và các công cụ tự động hóa hiện đang được đặt ở chế độ riêng tư (private) vì lý do bảo mật mã nguồn.*
+
+<br/>
 
 <a href="https://github.com/thieuhoang2002/cinematic-local-gallery">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cinematic-local-gallery&theme=radical" />
