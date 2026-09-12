@@ -2,33 +2,29 @@
 Software Engineer - Saigon University.
 ## 📫 How to reach me: Email: thieuhoangent@gmail.com
 
-<a href="https://github.com/thieuhoang2002/CSHARP-FIVECHIP-MART-PROJECT/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=CSHARP-FIVECHIP-MART-PROJECT&theme=radical" />
-</a> 
-<a href="https://github.com/thieuhoang2002/WEB2-PROJECT-VUTRUDONGHO/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=WEB2-PROJECT-VUTRUDONGHO&theme=merko" />
-</a>
-<a href="https://github.com/thieuhoang2002/Download_Video_TikTok_CMD/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Download_Video_TikTok_CMD&theme=radical" />
-</a>
-<a href="https://github.com/thieuhoang2002/winform_download_picture_instagram">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=winform_download_picture_instagram&theme=radical" />
-</a>
-<a href="https://github.com/thieuhoang2002/learning_HCM_ideology">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=learning_HCM_ideology&theme=gruvbox" />
-</a>    
-<a href="https://github.com/thieuhoang2002/WEB1-PROJECT---WATCH-SHOP/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=WEB1-PROJECT---WATCH-SHOP&theme=merko" />
-</a>
+> **Note for Recruiters:** Below are some of my highlighted public projects. Please note that several core projects and automation tools are currently kept private due to source code confidentiality and security reasons.
 
-<a href="https://github.com/thieuhoang2002/DO-AN-JAVA---CONG-NGHE-PHAN-MEM---QUAN-LY-CUA-HANG-BAN-COFFEE">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=DO-AN-JAVA---CONG-NGHE-PHAN-MEM---QUAN-LY-CUA-HANG-BAN-COFFEE&theme=gruvbox" />
-</a>    
-
+<a href="https://github.com/thieuhoang2002/cinematic-local-gallery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thieuhoang2002&repo=cinematic-local-gallery&theme=radical" />
+</a>
+<a href="https://github.com/thieuhoang2002/PayKickstartTool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thieuhoang2002&repo=PayKickstartTool&theme=merko" />
+</a>
+<a href="https://github.com/thieuhoang2002/Frontend-Warehouse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thieuhoang2002&repo=Frontend-Warehouse&theme=gruvbox" />
+</a>
+<a href="https://github.com/thieuhoang2002/Backend-Warehouse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thieuhoang2002&repo=Backend-Warehouse&theme=radical" />
+</a>
+<a href="https://github.com/thieuhoang2002/cover-letter-creator-fe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thieuhoang2002&repo=cover-letter-creator-fe&theme=merko" />
+</a>
+<a href="https://github.com/thieuhoang2002/cover-letter-creator-be">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thieuhoang2002&repo=cover-letter-creator-be&theme=gruvbox" />
+</a>
+<a href="https://github.com/thieuhoang2002/bansung3d_fps_lite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thieuhoang2002&repo=bansung3d_fps_lite&theme=radical" />
+</a>
+<a href="https://github.com/thieuhoang2002/jasperreport">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thieuhoang2002&repo=jasperreport&theme=merko" />
+</a>
