@@ -1,4 +1,4 @@
-### WELCOME TO MY PAGE 👋👋👋
+### WELCOME TO MY PAGE / CHÀO MỪNG ĐẾN VỚI PROFILE CỦA TÔI 👋👋👋
 **Software Engineer** - Saigon University (Đại học Sài Gòn).
 
 ## 📫 How to reach me / Liên hệ: thieuhoangent@gmail.com
@@ -11,26 +11,26 @@
 <br/>
 
 <a href="https://github.com/thieuhoang2002/cinematic-local-gallery">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cinematic-local-gallery&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cinematic-local-gallery&theme=radical&v=1" />
 </a>
 <a href="https://github.com/thieuhoang2002/PayKickstartTool">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=PayKickstartTool&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=PayKickstartTool&theme=merko&v=1" />
 </a>
 <a href="https://github.com/thieuhoang2002/Frontend-Warehouse">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Frontend-Warehouse&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Frontend-Warehouse&theme=gruvbox&v=1" />
 </a>
 <a href="https://github.com/thieuhoang2002/Backend-Warehouse">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Backend-Warehouse&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Backend-Warehouse&theme=radical&v=1" />
 </a>
 <a href="https://github.com/thieuhoang2002/cover-letter-creator-fe">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cover-letter-creator-fe&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cover-letter-creator-fe&theme=merko&v=1" />
 </a>
 <a href="https://github.com/thieuhoang2002/cover-letter-creator-be">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cover-letter-creator-be&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cover-letter-creator-be&theme=gruvbox&v=1" />
 </a>
 <a href="https://github.com/thieuhoang2002/bansung3d_fps_lite">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=bansung3d_fps_lite&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=bansung3d_fps_lite&theme=radical&v=1" />
 </a>
 <a href="https://github.com/thieuhoang2002/jasperreport">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=jasperreport&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=jasperreport&theme=merko&v=1" />
 </a>
