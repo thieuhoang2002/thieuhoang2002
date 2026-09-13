@@ -1,4 +1,4 @@
-### WELCOME TO MY PAGE / CHÀO MỪNG ĐẾN VỚI PROFILE CỦA TÔI 👋👋👋
+### WELCOME TO MY PAGE 👋👋👋
 **Software Engineer** - Saigon University (Đại học Sài Gòn).
 
 ## 📫 How to reach me / Liên hệ: thieuhoangent@gmail.com
