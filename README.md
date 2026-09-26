@@ -2,7 +2,7 @@
 **Software Engineer** - Saigon University (Đại học Sài Gòn).
 
 ### 📫 How to reach me / Liên hệ: <a href="mailto:thieuhoangent@gmail.com">thieuhoangent@gmail.com</a>
-### 🌍 Portfolio: <a href="https://portfolio-tan-mu-68.vercel.app/" target="_blank" rel="noopener noreferrer">https://portfolio-tan-mu-68.vercel.app/</a>
+### 🌍 Portfolio: https://thhoang.io.vn or https://portfolio-tan-mu-68.vercel.app
 
 > **Note for Recruiters (Lưu ý cho Nhà tuyển dụng):** 
 > Below are some of my highlighted public projects. Please note that several core projects and automation tools are currently kept private due to source code confidentiality and security reasons.
