@@ -12,10 +12,7 @@
 <br/>
 
 <a href="https://github.com/thieuhoang2002/K12Online_Chatbot">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=K12Online_Chatbot&theme=radical&v=2" />
-</a>
-<a href="https://github.com/thieuhoang2002/cinematic-local-gallery">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cinematic-local-gallery&theme=merko&v=2" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=K12Online_Chatbot&theme=radical&v=3" />
 </a>
 <a href="https://github.com/thieuhoang2002/PayKickstartTool">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=PayKickstartTool&theme=gruvbox&v=2" />
@@ -34,4 +31,7 @@
 </a>
 <a href="https://github.com/thieuhoang2002/bansung3d_fps_lite">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=bansung3d_fps_lite&theme=merko&v=2" />
+</a>
+<a href="https://github.com/thieuhoang2002/cinematic-local-gallery">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cinematic-local-gallery&theme=merko&v=2" />
 </a>
