@@ -15,19 +15,19 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=K12Online_Chatbot&theme=radical&v=3" />
 </a>
 <a href="https://github.com/thieuhoang2002/PayKickstartTool">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=PayKickstartTool&theme=gruvbox&v=2" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=PayKickstartTool&theme=merko&v=2" />
 </a>
 <a href="https://github.com/thieuhoang2002/EtsyVault">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=EtsyVault&theme=merko&v=1" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=EtsyVault&theme=radical&v=1" />
 </a>
 <a href="https://github.com/thieuhoang2002/Frontend-Warehouse">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Frontend-Warehouse&theme=radical&v=2" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Frontend-Warehouse&theme=merko&v=2" />
 </a>
 <a href="https://github.com/thieuhoang2002/Backend-Warehouse">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Backend-Warehouse&theme=merko&v=2" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Backend-Warehouse&theme=radical&v=2" />
 </a>
 <a href="https://github.com/thieuhoang2002/cover-letter-creator-fe">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cover-letter-creator-fe&theme=gruvbox&v=2" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cover-letter-creator-fe&theme=merko&v=2" />
 </a>
 <a href="https://github.com/thieuhoang2002/cover-letter-creator-be">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cover-letter-creator-be&theme=radical&v=2" />
