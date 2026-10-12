@@ -20,6 +20,9 @@
 <a href="https://github.com/thieuhoang2002/EtsyVault">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=EtsyVault&theme=radical&v=1" />
 </a>
+<a href="https://github.com/thieuhoang2002/mockup-forge">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=mockup-forge&theme=merko&v=2" />
+</a>
 <a href="https://github.com/thieuhoang2002/Frontend-Warehouse">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Frontend-Warehouse&theme=merko&v=2" />
 </a>
@@ -31,7 +34,4 @@
 </a>
 <a href="https://github.com/thieuhoang2002/cover-letter-creator-be">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cover-letter-creator-be&theme=radical&v=2" />
-</a>
-<a href="https://github.com/thieuhoang2002/bansung3d_fps_lite">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=bansung3d_fps_lite&theme=merko&v=2" />
 </a>
