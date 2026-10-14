@@ -2,6 +2,7 @@
 **Software Engineer** - Saigon University (Đại học Sài Gòn).
 
 ### 📫 How to reach me / Liên hệ: <a href="mailto:thieuhoangent@gmail.com">thieuhoangent@gmail.com</a>
+### 🌍 Linkedin: https://www.linkedin.com/in/thhoang0903
 ### 🌍 Portfolio: https://thhoang.io.vn or https://portfolio-tan-mu-68.vercel.app
 
 > **Note for Recruiters (Lưu ý cho Nhà tuyển dụng):** 
