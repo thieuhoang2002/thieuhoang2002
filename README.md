@@ -1,4 +1,4 @@
-# Viet Hoang Thieu (Sky)
+# Hoang Viet Thieu (thhoang)
 
 **Fullstack & Automation Engineer** based in Vietnam.  
 I build high-performance web applications, automated scraping pipelines, and indie SaaS products.
