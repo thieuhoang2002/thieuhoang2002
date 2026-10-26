@@ -1,38 +1,22 @@
-### WELCOME TO MY PAGE 👋👋👋
-**Software Engineer** - Saigon University (Đại học Sài Gòn).
+# Hoang Viet Thieu (thhoang)
 
-### 📫 How to reach me / Liên hệ: <a href="mailto:thieuhoangent@gmail.com">thieuhoangent@gmail.com</a>
-### 🌍 Linkedin: https://www.linkedin.com/in/thhoang0903
-### 🌍 Portfolio: https://thhoang.io.vn or https://portfolio-tan-mu-68.vercel.app
+**Fullstack & Automation Engineer** based in Vietnam.  
+I build high-performance web applications, automated scraping pipelines, and indie SaaS products.
 
-> **Note for Recruiters (Lưu ý cho Nhà tuyển dụng):** 
-> Below are some of my highlighted public projects. Please note that several core projects and automation tools are currently kept private due to source code confidentiality and security reasons.
->
-> *Dưới đây là một số dự án công khai tiêu biểu của tôi. Xin lưu ý rằng một số dự án cốt lõi và các công cụ tự động hóa hiện đang được đặt ở chế độ riêng tư (private) vì lý do bảo mật mã nguồn.*
+[Website](https://thhoang.io.vn) • [LinkedIn](https://www.linkedin.com/in/thhoang0903) • [X (Twitter)](https://x.com/thhoang0903) • [Email](mailto:thieuhoangent@gmail.com)
 
-<br/>
+---
 
-<a href="https://github.com/thieuhoang2002/K12Online_Chatbot">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=K12Online_Chatbot&theme=radical&v=3" />
-</a>
-<a href="https://github.com/thieuhoang2002/PayKickstartTool">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=PayKickstartTool&theme=merko&v=2" />
-</a>
-<a href="https://github.com/thieuhoang2002/EtsyVault">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=EtsyVault&theme=radical&v=1" />
-</a>
-<a href="https://github.com/thieuhoang2002/mockup-forge">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=mockup-forge&theme=merko&v=2" />
-</a>
-<a href="https://github.com/thieuhoang2002/Frontend-Warehouse">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Frontend-Warehouse&theme=radical&v=2" />
-</a>
-<a href="https://github.com/thieuhoang2002/Backend-Warehouse">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=Backend-Warehouse&theme=merko&v=2" />
-</a>
-<a href="https://github.com/thieuhoang2002/cover-letter-creator-fe">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cover-letter-creator-fe&theme=radical&v=2" />
-</a>
-<a href="https://github.com/thieuhoang2002/cover-letter-creator-be">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thieuhoang2002&repo=cover-letter-creator-be&theme=merko&v=2" />
-</a>
+### 🚀 What I'm Working On
+- 🛍️ **[ShopOps](https://shopops.thhoang.io.vn/)** — All-in-one operations, competitor intelligence & automation suite for e-commerce sellers.
+- 🤖 **[K12Online Chatbot](https://github.com/thieuhoang2002/K12Online_Chatbot)** — Open-source conversational assistant & automated workflow system (selected for XERJ Corpus Hub).
+- ⚡ **Automation & Tooling** — Custom web scrapers, reverse-engineered APIs, and Playwright bots for business workflows.
+
+### 🛠️ Tech Stack
+- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
+- **Backend & Systems:** Node.js, Python, C# / .NET, RESTful APIs
+- **Automation & DevOps:** Playwright, Web Scraping, Docker, Git, Supabase, Linux
+
+---
+
+*Open for full-time remote roles, contract work, and interesting collaborations.*
