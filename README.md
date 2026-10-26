@@ -14,7 +14,7 @@ I build high-performance web applications, automated scraping pipelines, and ind
 
 ---
 
-### 🛠️ Core Competencies & Primary Stack `Interview-Ready`
+### 🛠️ Core Competencies & Primary Stack
 *Ready for in-depth discussions on system architecture, performance optimization, and engineering theory.*
 
 - **Modern Frontend:** Next.js (App Router), React 19 Ecosystem, TypeScript, Tailwind CSS
