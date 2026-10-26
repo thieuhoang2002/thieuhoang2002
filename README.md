@@ -1,4 +1,4 @@
-# Hoang Viet Thieu (thhoang)
+# Viet Hoang Thieu (Sky)
 
 **Fullstack & Automation Engineer** based in Vietnam.  
 I build high-performance web applications, automated scraping pipelines, and indie SaaS products.
@@ -12,10 +12,21 @@ I build high-performance web applications, automated scraping pipelines, and ind
 - 🤖 **[K12Online Chatbot](https://github.com/thieuhoang2002/K12Online_Chatbot)** — Open-source conversational assistant & automated workflow system (selected for XERJ Corpus Hub).
 - ⚡ **Automation & Tooling** — Custom web scrapers, reverse-engineered APIs, and Playwright bots for business workflows.
 
-### 🛠️ Tech Stack
-- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
-- **Backend & Systems:** Node.js, Python, C# / .NET, RESTful APIs
-- **Automation & DevOps:** Playwright, Web Scraping, Docker, Git, Supabase, Linux
+---
+
+### 🛠️ Core Competencies & Primary Stack `Interview-Ready`
+*Ready for in-depth discussions on system architecture, performance optimization, and engineering theory.*
+
+- **Modern Frontend:** Next.js (App Router), React 19 Ecosystem, TypeScript, Tailwind CSS
+- **Backend & Systems:** C#, .NET Framework, RESTful APIs, SQL Server, OOP Architecture
+- **DevOps, Automation & QA:** Playwright, Web Scraping, Docker, Git & GitHub
+
+### 🧰 Working Familiarity & Tools `Hands-On Experience`
+*Applied across production systems, automation utilities, and freelance contracts.*
+
+- **Languages & Frameworks:** Python, JavaScript, Java, Spring Boot, HTML5/CSS3, Bootstrap, Material UI
+- **Databases & Scripting:** MySQL, MongoDB, Google Apps Script, Tampermonkey
+- **Workflow & Tools:** Antigravity, Postman, Visual Studio, VS Code, Linux, JasperReports, UML
 
 ---
 
